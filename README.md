@@ -10,7 +10,7 @@ After logging into the machine, running Snort in sniffer mode showed the incomin
 
 ![Screenshot 2023-06-10 115601](https://github.com/HattMobb/Defending-live-attacks-with-SNORT/assets/134090089/cc0edf60-1b27-4266-84c5-5275e7e3f98d)
 
-Here you can see traffic originating from port 4444 from 10.10.144.156 connecting to my machine.  
+Above, you can see traffic originating from port 4444 from 10.10.144.156 connecting to my machine.  
 Later my machine can then be seen connecting back to the same port on the same foreign machine.
 
 ![Screenshot 2023-06-10 115611](https://github.com/HattMobb/Defending-live-attacks-with-SNORT/assets/134090089/38efda47-dae4-4673-bce3-ecf56fa6dba6)
